@@ -1,0 +1,7 @@
+<?php
+class JiraConfig
+{
+	const Username = 'YourUsernameHere';
+	const Password = 'YourPasswordHere';
+}
+?>
